@@ -10,8 +10,9 @@ Participants:-
 6. Archana
 
 Guidelines for pushing your code:-
-1. Everyone has an individual folder in this repo. So after you are done with your project, push it into your respective folders.
-2. Also, make sure you have those project in your own github as well.
+1. Fork this repo
+2. Everyone has an individual folder in this repo. So after you are done with your project, push it into your respective folders.
+3. Also, make sure you have those project in your own github as well.
 
 
 
