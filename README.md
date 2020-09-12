@@ -11,11 +11,11 @@ Participants:-
 
 Steps for pushing your code:-
 1. Fork this repo. 
-2. Clone it to your local machine using git clone https://github.com/GirlsWhoCode-NIT-JSR/My_First_Website/
+2. Clone it to your local machine using the command:   git clone https://github.com/GirlsWhoCode-NIT-JSR/My_First_Website/
 3. Use the following command to add a URL to the repo where you can push codes
     git remote add origin <URL>
     In this URL part write the URL of the forked repo.
-    It will look like this: - got remote add origin https://github.com/psingh587/My_First_Website, but will have your name in it.
+    It will look like this: -   git remote add origin https://github.com/psingh587/My_First_Website , but will have your name in it.
 4. Add your files to your own folder.
 5. Push it using git push origin master
 6. You will see an option to create a Pull Request.
