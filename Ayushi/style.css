@@ -1,0 +1,139 @@
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box; font-family: 'Maven Pro', sans-serif;
+    background-size: 50%;
+    background: url('img/bg1.jpg');
+}
+h1{
+    text-emphasis: center; font-size: 1.8rem;
+    color: #444; padding: 30px 500px;
+}
+main{
+    width: 90%; height: 550px;
+    margin: auto; border: 3px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; flex-wrap: wrap;
+}
+
+div{
+    width: 30%; height: 160px;
+    border: 1px solid rgb(68, 0, 255);
+    box-shadow: 2px 2px 5px #534f4f;
+    border-radius: 10px; cursor: pointer;
+}
+.a{
+    background-image: url('img/SUCKERPIC.jpg');
+    background-size:  100% 100%;
+    background-repeat: no-repeat;
+}
+.a:hover{
+    background-color: indigo;
+    position: relative;
+    top: -10px;
+    box-shadow: 0 5px 40px 0 #15f4ee inset, 0 5px 40px 0 rgb(5, 250, 5);
+
+}
+.b{
+    background-image: url('img/WASA.jpg');
+    background-size:  100% 100%;
+    background-repeat: no-repeat;
+}
+.b:hover{
+    background-color: indigo;
+    position: relative;
+    top: -10px;
+    box-shadow: 0 5px 40px 0 black inset, 0 5px 40px 0 #ff00ff;
+}
+.c{
+    background-image: url('img/LMLOVE.jpg');
+    background-size:  100% 100%;
+    background-repeat: no-repeat;
+}
+.c:hover{
+    background-color: indigo;
+    position: relative;
+    top: -10px;
+    box-shadow: 0 5px 40px 0 #15f4ee inset, 0 5px 40px 0 gold;
+}
+.d{
+    background-image: url('img/attention.png');
+    background-size:  100% 100%;
+    background-repeat: no-repeat;
+}
+.d:hover{
+    background-color: indigo;
+    position: relative;
+    top: -10px;
+    box-shadow: 0 5px 40px 0 rgb(65, 5, 5) inset, 0 5px 40px 0 rgb(12, 11, 11);
+}
+.e{
+    background-image: url('img/seeu.jpg');
+    background-size:  100% 100%;
+    background-repeat: no-repeat;
+}
+.e:hover{
+    background-color: indigo;
+    position: relative;
+    top: -10px;
+    box-shadow: 0 5px 40px 0 rgb(31, 30, 30) inset, 0 5px 40px 0 rgb(215, 238, 13);
+}
+.f{
+    background-image: url('img/friendsimage.jpg');
+    background-size:  100% 100%;
+    background-repeat: no-repeat;
+}
+.f:hover{
+    background-color: indigo;
+    position: relative;
+    top: -10px;
+    box-shadow: 0 5px 40px 0 blanchedalmond , 0 5px 40px 0 rgb(231, 4, 4);
+}
+.g{
+    background-image: url('img/naja.jpg');
+    background-size:  100% 100%;
+    background-repeat: no-repeat;
+}
+.g:hover{
+    background-color: indigo;
+    position: relative;
+    top: -10px;
+    box-shadow: 0 5px 40px aqua inset, 0 5px 40px 0 rgb(28, 6, 107);
+}
+.h{
+    background-image: url('img/dilmera.jpg');
+    background-size:  100% 100%;
+    background-repeat: no-repeat;
+    
+}
+.h:hover{
+    background-color: indigo;
+    position: relative;
+    top: -10px;
+    box-shadow: 0 5px 40px 0 #15f4ee inset, 0 5px 40px 0 indigo;
+}
+.i{
+    background-image: url('img/lehenga.jpg');
+    background-size:  100% 100%;
+    background-repeat: no-repeat;
+}
+.i:hover{
+    background-color: indigo;
+    position: relative;
+    top: -10px;
+    box-shadow: 0 5px 40px 0 #15f4ee inset, 0 5px 40px 0 green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
